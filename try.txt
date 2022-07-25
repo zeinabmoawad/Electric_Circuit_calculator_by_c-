@@ -1,0 +1,8 @@
+1000
+Vsrc V1 1 0 10 0
+Res R1 1 2 20
+Res R2 2 0 20
+Cap C1 2 3 0.00005
+Cccs Sc 0 3 0 2 R2 4
+Ind L1 3 4 0.01
+Res R3 4 0 30
